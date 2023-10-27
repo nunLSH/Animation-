@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/background_townroad"
+    tools:context=".MovingTaxiActivity">
+
+    <ImageView
+        android:id="@+id/imageViewTaxi"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:src="@drawable/moving_taxi" />
+
+    <Button
+        android:id="@+id/townButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="#00ff0000"
+        android:textSize="15pt"
+        android:textStyle="bold"
+        android:textColor="#FFC107"
+        android:layout_weight="1"
+        android:text="모프마을로 이동하기 >>" />
+</LinearLayout>

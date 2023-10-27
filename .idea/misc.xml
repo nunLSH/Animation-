@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/drawable/cocoa_side.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/drawable/dancingboy.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/drawable/decorating_bar_color.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/drawable/decorating_home.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/drawable/decorating_house.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/drawable/yeoul.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/drawable/yeoul_side.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_decorating_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_ending.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_final_house.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_loading_home.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_monologue.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_moving_taxi.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_show_final_house.xml" value="0.14666666666666667" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_taxi.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_taxi_acitivity.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_transition.xml" value="0.14130434782608695" />
+        <entry key="..\:/Android/AndroidStudioProjects/HW/HW54AnimationForTeamIdea/app/src/main/res/layout/activity_welcoming.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
